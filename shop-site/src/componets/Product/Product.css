@@ -1,4 +1,29 @@
+
+.product{
+    width:310px;
+    height: 510px;
+    border:1px solid wheat;
+    border-radius: 9px;
+    
+}
+
 .product img{
     width:290px;
     height: 290px;
+    margin: 9px;
+    border-radius: 7px;
+}
+.products-details{
+   
+}
+.product-name{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 450;
+    font-size: 22px;
+    line-height: 26px;
+    margin-top: 7px;
+    
+
+    
 }
