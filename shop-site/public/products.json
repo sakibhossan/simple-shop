@@ -2,7 +2,7 @@
 {
 "id":"367hf0057yu9iu5",
 "name": "Mac Pro-1",
-"price": "200000",
+"price": "200000 Taka",
 "img": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
 
 
@@ -16,49 +16,49 @@
 {
     "id":" 34tyu75ie9q048",
     "name": "Apple pro-3i",
-    "price": "309909",
+    "price": "309909 Taka",
     "img": "https://media.istockphoto.com/photos/man-working-with-a-broken-laptop-computer-on-office-business-picture-id1199644391"
 },
 {
     "id": "3guy5u8i5u7d03",
     "name": "HP laptop corei3",
-    "price": "50000",
+    "price": "50000 Taka",
     "img": "https://media.istockphoto.com/vectors/laptop-with-wrench-and-screwdriver-on-screen-computer-repair-service-vector-id884886090"
 },
 {
     "id": "4tnj6i85j3fd5",
     "name": "Apple v3",
-    "price":"39000",
+    "price":"39000 Taka",
     "img":"https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
 },
 {
     "id": "3f4fg5h7j7gg78",
     "name": "Apple corei5",
-    "price": "500000",
+    "price": "500000 Taka",
     "img": " https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=726&q=80"
 },
 {
     "id": " 5h6f6498fjy6h",
     "name": "Asus corei3",
-    "price": "52000",
+    "price": "52000 Taka",
     "img": "https://media.istockphoto.com/photos/modern-laptop-with-vibrant-gradient-violet-blue-neon-color-lights-picture-id1203211066"
 },
 {
     "id": "5th5y7rgt4hjf47",
     "name": "Asus corei5",
-    "price": "780000",
+    "price": "780000 Taka",
     "img": "https://media.istockphoto.com/photos/modern-laptop-with-vibrant-gradient-pink-blue-neon-lights-minimalism-picture-id1153463340"
 },
 {
     "id": "4y678ht959046h5",
     "name": "Dell core i5",
-    "price": "55000",
+    "price": "55000 Taka",
     "img": "https://media.istockphoto.com/photos/laptop-computer-with-blank-purple-screen-placed-on-circle-stand-and-picture-id1292038824"
 },
 {
 "id": "6ty56hr8nb74j8",
 "name": "Dell core i7",
-"price": " 70000",
+"price": " 70000 Taka",
 "img":"https://media.istockphoto.com/vectors/landing-site-page-web-pen-laptop-vivid-button-business-beverage-vector-id1208607786"
 
 
