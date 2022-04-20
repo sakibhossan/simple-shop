@@ -17,8 +17,28 @@ const Shop = () => {
 
     const handleAddToCart = (product) => {
         // console.log(product);
-        const newCart = [...cart, product];
-        setCart (newCart);
+        const isPresent = cart.find( cartItem => cartItem.id ===product.id);
+       
+        if (!isPresent)  {
+            const newCart = [...cart, product];
+            setCart (newCart);
+
+        }
+
+        
+    }
+    const randomItemSelector = () => {
+        const item = cart[Math.floor(Math.random() * cart.length)];
+        setCart(item);
+
+        if (item) {
+            alert(item.name);
+        }
+        setCart([]);
+    }
+
+    const clearCart = () => {
+        setCart([]);
     }
     return (
         <div className='shop-container'>
@@ -40,10 +60,12 @@ const Shop = () => {
         
         <ul>
             {
-                cart?.map(c=><li>{c.name}</li>)
+                cart?.map(c=><li key={c.id}>{c.name}</li>)
             }
         </ul>
-        <button>CHOOSE 1 </button>
+        <button onClick={randomItemSelector}>CHOOSE 1 </button>
+        <button onClick={clearCart}>add me</button>
+        
         
         </div>
         </div>
