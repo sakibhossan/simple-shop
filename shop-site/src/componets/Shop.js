@@ -13,19 +13,7 @@ const Shop = () => {
     },[]);
   
     
-    const randomItemSelector = () => {
-        var item = cart[Math.floor(Math.random() * cart.length)];
-        setCart(item);
-
-        if (item) {
-            alert(item.name);
-        }
-        setCart([]);
-    }
-
-    const clearCart = () => {
-        setCart([]);
-    }
+   
 
     const handleAddToCart = (product) => {
         // console.log(product);
@@ -55,7 +43,7 @@ const Shop = () => {
                 cart?.map(c=><li>{c.name}</li>)
             }
         </ul>
-        <button onclick={randomItemSelector} key={cart.id}>CHOOSE 1 </button>
+        <button>CHOOSE 1 </button>
         
         </div>
         </div>
