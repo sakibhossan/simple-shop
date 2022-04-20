@@ -9,3 +9,8 @@
     margin-left:50px;
 
 }
+.card-container{
+    border: 1px solid red;
+    height: 50%;
+    width:50%;
+}
